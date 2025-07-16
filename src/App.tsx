@@ -1,3 +1,4 @@
+import React from 'react'
 import { motion } from 'framer-motion'
 import { Code, Download, Star, Zap, Shield, Palette, Users, ArrowRight, Play, CheckCircle, Github, Twitter, Linkedin } from 'lucide-react'
 import { Button } from './components/ui/button'
